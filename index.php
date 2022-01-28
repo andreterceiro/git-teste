@@ -93,7 +93,7 @@
 							<div class="schedule-content active" data-day="monday">
 								<div class="col-md-12 col-sm-6">
 									<div class="program program-schedule">
-										<h3>Taekwondo e Jiu Jitsu</h3>
+										<h3>Taekwondo e Futebol</h3>
 										<span style="font-family: Roboto, Arial, sans-serif !important">Segunda é dia de Taekwondo (2 horários, 18:30 e 20:30) e Jiu Jitsu (19:30)</span>
 									</div>
 								</div>
@@ -109,7 +109,7 @@
 							<div class="schedule-content" data-day="wednesday">
 								<div class="col-md-12 col-sm-6">
 									<div class="program program-schedule">
-										<h3>Taekwondo e Jiu-Jitsu</h3>
+										<h3>Taekwondo e Futebol</h3>
 										<span style="font-family: Roboto, Arial, sans-serif !important">Na quarta é novamente dia de Jiu Jitsu e Taekwondo, nos mesmos horáros de segunda</span>
 									</div>
 								</div>
@@ -125,7 +125,7 @@
 							<div class="schedule-content" data-day="friday">	
 								<div class="col-md-12 col-sm-6">
 									<div class="program program-schedule">
-											<h3>Taekwondo e Jiu-Jitsu</h3>
+											<h3>Taekwondo e Futebol</h3>
 										<span style="font-family: Roboto, Arial, sans-serif !important">Na sexta é novamente dia de Jiu Jitsu e Taekwondo, nos mesmos horáros de segunda</span>
 									</div>
 							    </div>		
